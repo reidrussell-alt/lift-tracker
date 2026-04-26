@@ -1,6 +1,3 @@
-[lift_tracker.html](https://github.com/user-attachments/files/27103174/lift_tracker.html)
-# lift-tracker
- "Personal workout tracker"
 
 <!DOCTYPE html>
 <html lang="en">
@@ -670,10 +667,10 @@
   .data-section-title { color: var(--text-dim); }
 
   .rules-card .rule {
-    display: flex; gap: 10px;
-    padding: 8px 0;
-    font-size: 12px; line-height: 1.5;
-    color: var(--text-dim);
+    display: flex; gap: 12px;
+    padding: 12px 0;
+    font-size: 13px; line-height: 1.65;
+    color: #b8b8b8;
   }
 
   .rules-card .rule-num {
